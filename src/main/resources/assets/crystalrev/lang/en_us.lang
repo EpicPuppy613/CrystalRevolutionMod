@@ -1,0 +1,30 @@
+itemGroup.crystalrevolutionmachines=Crystal Revolution Machines
+
+item.rough_crystal.name=Rough Crystal
+item.crystal.name=Crystal
+
+item.rough_crystal_fuel.name=Rough Crystal Fuel
+item.basic_crystal_fuel.name=Basic Crystal Fuel
+
+item.rough_crystal_helmet.name=Rough Crystal Helmet
+item.rough_crystal_chestplate.name=Rough Crystal Chestplate
+item.rough_crystal_leggings.name=Rough Crystal Leggings
+item.rough_crystal_boots.name=Rough Crystal Boots
+
+item.rough_crystal_axe.name=Rough Crystal Axe
+item.rough_crystal_pickaxe.name=Rough Crystal Pickaxe
+item.rough_crystal_shovel.name=Rough Crystal Shovel
+item.rough_crystal_hoe.name=Rough Crystal Hoe
+item.rough_crystal_sword.name=Rough Crystal Sword
+
+tile.rough_crystal_machine_frame.name=Rough Crystal Machine Frame
+tile.rough_crystal_block.name=Block of Rough Crystal
+
+tile.ore_overworld_rough_crystal.name=Rough Crystal Ore
+tile.ore_overworld_crystal.name=Crystal Ore
+tile.ore_overworld_charged_crystal.name=Charged Crystal Ore
+tile.ore_nether_crystal.name=Nether Crystal Ore
+tile.ore_end_crystal.name=Ender Crystal Ore
+
+tile.basic_crystal_machine_frame.name=Basic Crystal Machine Frame
+tile.crystal_block.name=Block of Crystal

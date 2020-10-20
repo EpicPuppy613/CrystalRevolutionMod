@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"SCS",
+		"CFC",
+		"SCS"
+	],
+	
+	"key":
+	{
+		"C":
+		{
+			"item": "crystalrev:rough_crystal"
+		},
+		"F":
+		{
+			"item": "crystalrev:rough_crystal_machine_frame"
+		},
+		"S":
+		{
+			"item": "minecraft:cobblstone"
+		}
+	},
+	
+	"result":
+	{
+		"item": "crystalrev:rough_crystalizer_furnace"
+	}
+}

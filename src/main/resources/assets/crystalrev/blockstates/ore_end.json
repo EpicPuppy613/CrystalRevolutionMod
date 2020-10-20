@@ -1,0 +1,6 @@
+{
+	"variants":
+	{
+		"variant=crystal": { "model": "crystalrev:ore_end_crystal" }
+	}
+}

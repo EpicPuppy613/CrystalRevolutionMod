@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"C"
+	],
+	
+	"key":
+	{
+		"C":
+		{
+			"item": "crystalrev:rough_crystal_block"
+		}
+	},
+	
+	"result":
+	{
+		"item": "crystalrev:rough_crystal",
+		"count": 9
+	}
+}

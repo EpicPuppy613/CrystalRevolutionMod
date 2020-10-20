@@ -1,0 +1,8 @@
+{
+	"variants":
+	{
+		"variant=rough_crystal": { "model": "crystalrev:ore_overworld_rough_crystal" },
+		"variant=crystal": { "model": "crystalrev:ore_overworld_crystal" },
+		"variant=charged_crystal": { "model": "crystalrev:ore_overworld_charged_crystal" }
+	}
+}

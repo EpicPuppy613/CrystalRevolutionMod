@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": 
+	{
+		"layer0": "crystalrev:items/rough_crystal_pickaxe"
+	}
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crystalrev",
+  "name": "Crystal Revolution",
+  "description": "Use crystals to automate your base.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EpicPuppy613"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

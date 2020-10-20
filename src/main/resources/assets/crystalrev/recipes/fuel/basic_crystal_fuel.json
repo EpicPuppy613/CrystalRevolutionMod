@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" C ",
+		"CBC",
+		" C "
+	],
+	
+	"key":
+	{
+		"C":
+		{
+			"item": "crystalrev:rough_crystal_fuel"
+		},
+		"B":
+		{
+			"item": "minecraft:crystal"
+		}
+	},
+	
+	"result":
+	{
+		"item": "crystalrev:basic_crystal_fuel",
+		"count": 4
+	}
+}

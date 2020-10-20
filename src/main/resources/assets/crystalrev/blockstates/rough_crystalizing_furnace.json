@@ -1,0 +1,7 @@
+{
+	"variants":
+	{
+		"burning=false": {"model": "crystalrev:rough_crystalizing_furnace_off"},
+		"burning=true": {"model": "crystalrev:rough_crystalizing_furnace_on"}
+	}
+}

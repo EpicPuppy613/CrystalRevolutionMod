@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC",
+		"C C",
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C":
+		{
+			"item": "crystalrev:rough_crystal"
+		}
+	},
+	
+	"result":
+	{
+		"item": "crystalrev:rough_crystal_machine_frame"
+	}
+}
